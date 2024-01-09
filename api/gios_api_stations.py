@@ -2,7 +2,7 @@
 import requests
 import json
 
-for i in range(14, 16):
+for i in range(11, 12):
     # Define the URL of the API endpoint
     url = f"https://api.gios.gov.pl/pjp-api/v1/rest/station/findAll?page={i}"
 
