@@ -1,0 +1,2276 @@
+[
+    {
+        "pow_nazw": "bocheński",
+        "lud_1_km2": 164.7,
+        "ter_woj": 12,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "krakowski",
+        "lud_1_km2": 244.0,
+        "ter_woj": 12,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "miechowski",
+        "lud_1_km2": 69.5,
+        "ter_woj": 12,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "myślenicki",
+        "lud_1_km2": 192.5,
+        "ter_woj": 12,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "proszowicki",
+        "lud_1_km2": 101.9,
+        "ter_woj": 12,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "wielicki",
+        "lud_1_km2": 346.0,
+        "ter_woj": 12,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "m. Kraków",
+        "lud_1_km2": 2457.6,
+        "ter_woj": 12,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "gorlicki",
+        "lud_1_km2": 109.5,
+        "ter_woj": 12,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "limanowski",
+        "lud_1_km2": 138.3,
+        "ter_woj": 12,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "nowosądecki",
+        "lud_1_km2": 138.7,
+        "ter_woj": 12,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "m. Nowy Sącz",
+        "lud_1_km2": 1399.1,
+        "ter_woj": 12,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "chrzanowski",
+        "lud_1_km2": 323.7,
+        "ter_woj": 12,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "olkuski",
+        "lud_1_km2": 172.8,
+        "ter_woj": 12,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "oświęcimski",
+        "lud_1_km2": 367.6,
+        "ter_woj": 12,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "wadowicki",
+        "lud_1_km2": 244.4,
+        "ter_woj": 12,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "brzeski",
+        "lud_1_km2": 155.5,
+        "ter_woj": 12,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "dąbrowski",
+        "lud_1_km2": 109.0,
+        "ter_woj": 12,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "tarnowski",
+        "lud_1_km2": 140.0,
+        "ter_woj": 12,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "m. Tarnów",
+        "lud_1_km2": 1436.5,
+        "ter_woj": 12,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "nowotarski",
+        "lud_1_km2": 128.9,
+        "ter_woj": 12,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "suski",
+        "lud_1_km2": 121.2,
+        "ter_woj": 12,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "tatrzański",
+        "lud_1_km2": 141.1,
+        "ter_woj": 12,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "bielski",
+        "lud_1_km2": 362.1,
+        "ter_woj": 24,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "cieszyński",
+        "lud_1_km2": 240.4,
+        "ter_woj": 24,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "żywiecki",
+        "lud_1_km2": 143.7,
+        "ter_woj": 24,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "m. Bielsko-Biała",
+        "lud_1_km2": 1340.0,
+        "ter_woj": 24,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "lubliniecki",
+        "lud_1_km2": 91.4,
+        "ter_woj": 24,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "tarnogórski",
+        "lud_1_km2": 216.1,
+        "ter_woj": 24,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "m. Bytom",
+        "lud_1_km2": 2152.8,
+        "ter_woj": 24,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "m. Piekary Śląskie",
+        "lud_1_km2": 1308.0,
+        "ter_woj": 24,
+        "ter_pow": 71
+    },
+    {
+        "pow_nazw": "częstochowski",
+        "lud_1_km2": 86.7,
+        "ter_woj": 24,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "kłobucki",
+        "lud_1_km2": 92.8,
+        "ter_woj": 24,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "myszkowski",
+        "lud_1_km2": 142.0,
+        "ter_woj": 24,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "m. Częstochowa",
+        "lud_1_km2": 1304.0,
+        "ter_woj": 24,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "gliwicki",
+        "lud_1_km2": 170.3,
+        "ter_woj": 24,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "m. Gliwice",
+        "lud_1_km2": 1277.4,
+        "ter_woj": 24,
+        "ter_pow": 66
+    },
+    {
+        "pow_nazw": "m. Zabrze",
+        "lud_1_km2": 1932.7,
+        "ter_woj": 24,
+        "ter_pow": 78
+    },
+    {
+        "pow_nazw": "m. Chorzów",
+        "lud_1_km2": 3058.6,
+        "ter_woj": 24,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "m. Katowice",
+        "lud_1_km2": 1700.9,
+        "ter_woj": 24,
+        "ter_pow": 69
+    },
+    {
+        "pow_nazw": "m. Mysłowice",
+        "lud_1_km2": 1091.0,
+        "ter_woj": 24,
+        "ter_pow": 70
+    },
+    {
+        "pow_nazw": "m. Ruda Śląska",
+        "lud_1_km2": 1694.1,
+        "ter_woj": 24,
+        "ter_pow": 72
+    },
+    {
+        "pow_nazw": "m. Siemianowice Śląskie",
+        "lud_1_km2": 2504.6,
+        "ter_woj": 24,
+        "ter_pow": 74
+    },
+    {
+        "pow_nazw": "m. Świętochłowice",
+        "lud_1_km2": 3443.2,
+        "ter_woj": 24,
+        "ter_pow": 76
+    },
+    {
+        "pow_nazw": "raciborski",
+        "lud_1_km2": 183.9,
+        "ter_woj": 24,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "rybnicki",
+        "lud_1_km2": 343.4,
+        "ter_woj": 24,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "wodzisławski",
+        "lud_1_km2": 527.0,
+        "ter_woj": 24,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "m. Jastrzębie-Zdrój",
+        "lud_1_km2": 974.2,
+        "ter_woj": 24,
+        "ter_pow": 67
+    },
+    {
+        "pow_nazw": "m. Rybnik",
+        "lud_1_km2": 888.5,
+        "ter_woj": 24,
+        "ter_pow": 73
+    },
+    {
+        "pow_nazw": "m. Żory",
+        "lud_1_km2": 956.3,
+        "ter_woj": 24,
+        "ter_pow": 79
+    },
+    {
+        "pow_nazw": "będziński",
+        "lud_1_km2": 399.2,
+        "ter_woj": 24,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "zawierciański",
+        "lud_1_km2": 112.4,
+        "ter_woj": 24,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "m. Dąbrowa Górnicza",
+        "lud_1_km2": 608.1,
+        "ter_woj": 24,
+        "ter_pow": 65
+    },
+    {
+        "pow_nazw": "m. Jaworzno",
+        "lud_1_km2": 574.5,
+        "ter_woj": 24,
+        "ter_pow": 68
+    },
+    {
+        "pow_nazw": "m. Sosnowiec",
+        "lud_1_km2": 2075.2,
+        "ter_woj": 24,
+        "ter_pow": 75
+    },
+    {
+        "pow_nazw": "mikołowski",
+        "lud_1_km2": 427.8,
+        "ter_woj": 24,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "pszczyński",
+        "lud_1_km2": 235.4,
+        "ter_woj": 24,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "bieruńsko-lędziński",
+        "lud_1_km2": 376.7,
+        "ter_woj": 24,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "m. Tychy",
+        "lud_1_km2": 1504.8,
+        "ter_woj": 24,
+        "ter_pow": 77
+    },
+    {
+        "pow_nazw": "gorzowski",
+        "lud_1_km2": 60.5,
+        "ter_woj": 8,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "międzyrzecki",
+        "lud_1_km2": 39.9,
+        "ter_woj": 8,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "słubicki",
+        "lud_1_km2": 46.0,
+        "ter_woj": 8,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "strzelecko-drezdenecki",
+        "lud_1_km2": 37.7,
+        "ter_woj": 8,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "sulęciński",
+        "lud_1_km2": 28.7,
+        "ter_woj": 8,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "m. Gorzów Wielkopolski",
+        "lud_1_km2": 1358.2,
+        "ter_woj": 8,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "krośnieński",
+        "lud_1_km2": 38.2,
+        "ter_woj": 8,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "nowosolski",
+        "lud_1_km2": 107.2,
+        "ter_woj": 8,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "świebodziński",
+        "lud_1_km2": 57.9,
+        "ter_woj": 8,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "zielonogórski",
+        "lud_1_km2": 55.5,
+        "ter_woj": 8,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "żagański",
+        "lud_1_km2": 65.7,
+        "ter_woj": 8,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "żarski",
+        "lud_1_km2": 66.0,
+        "ter_woj": 8,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "wschowski",
+        "lud_1_km2": 60.0,
+        "ter_woj": 8,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "m. Zielona Góra",
+        "lud_1_km2": 500.5,
+        "ter_woj": 8,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "jarociński",
+        "lud_1_km2": 119.0,
+        "ter_woj": 30,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "kaliski",
+        "lud_1_km2": 71.1,
+        "ter_woj": 30,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "kępiński",
+        "lud_1_km2": 92.2,
+        "ter_woj": 30,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "krotoszyński",
+        "lud_1_km2": 105.6,
+        "ter_woj": 30,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "ostrowski",
+        "lud_1_km2": 137.0,
+        "ter_woj": 30,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "ostrzeszowski",
+        "lud_1_km2": 70.7,
+        "ter_woj": 30,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "pleszewski",
+        "lud_1_km2": 86.3,
+        "ter_woj": 30,
+        "ter_pow": 20
+    },
+    {
+        "pow_nazw": "m. Kalisz",
+        "lud_1_km2": 1354.5,
+        "ter_woj": 30,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "gnieźnieński",
+        "lud_1_km2": 113.0,
+        "ter_woj": 30,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "kolski",
+        "lud_1_km2": 81.2,
+        "ter_woj": 30,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "koniński",
+        "lud_1_km2": 81.7,
+        "ter_woj": 30,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "słupecki",
+        "lud_1_km2": 68.7,
+        "ter_woj": 30,
+        "ter_pow": 23
+    },
+    {
+        "pow_nazw": "turecki",
+        "lud_1_km2": 87.5,
+        "ter_woj": 30,
+        "ter_pow": 27
+    },
+    {
+        "pow_nazw": "wrzesiński",
+        "lud_1_km2": 111.1,
+        "ter_woj": 30,
+        "ter_pow": 30
+    },
+    {
+        "pow_nazw": "m. Konin",
+        "lud_1_km2": 827.6,
+        "ter_woj": 30,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "gostyński",
+        "lud_1_km2": 91.2,
+        "ter_woj": 30,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "grodziski",
+        "lud_1_km2": 80.2,
+        "ter_woj": 30,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "kościański",
+        "lud_1_km2": 107.1,
+        "ter_woj": 30,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "leszczyński",
+        "lud_1_km2": 73.9,
+        "ter_woj": 30,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "międzychodzki",
+        "lud_1_km2": 48.6,
+        "ter_woj": 30,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "nowotomyski",
+        "lud_1_km2": 74.3,
+        "ter_woj": 30,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "rawicki",
+        "lud_1_km2": 106.4,
+        "ter_woj": 30,
+        "ter_pow": 22
+    },
+    {
+        "pow_nazw": "wolsztyński",
+        "lud_1_km2": 83.5,
+        "ter_woj": 30,
+        "ter_pow": 29
+    },
+    {
+        "pow_nazw": "m. Leszno",
+        "lud_1_km2": 1903.4,
+        "ter_woj": 30,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "chodzieski",
+        "lud_1_km2": 66.4,
+        "ter_woj": 30,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "czarnkowsko-trzcianecki",
+        "lud_1_km2": 46.5,
+        "ter_woj": 30,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "pilski",
+        "lud_1_km2": 103.7,
+        "ter_woj": 30,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "wągrowiecki",
+        "lud_1_km2": 66.4,
+        "ter_woj": 30,
+        "ter_pow": 28
+    },
+    {
+        "pow_nazw": "złotowski",
+        "lud_1_km2": 40.7,
+        "ter_woj": 30,
+        "ter_pow": 31
+    },
+    {
+        "pow_nazw": "obornicki",
+        "lud_1_km2": 83.0,
+        "ter_woj": 30,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "poznański",
+        "lud_1_km2": 233.0,
+        "ter_woj": 30,
+        "ter_pow": 21
+    },
+    {
+        "pow_nazw": "szamotulski",
+        "lud_1_km2": 81.9,
+        "ter_woj": 30,
+        "ter_pow": 24
+    },
+    {
+        "pow_nazw": "średzki",
+        "lud_1_km2": 96.1,
+        "ter_woj": 30,
+        "ter_pow": 25
+    },
+    {
+        "pow_nazw": "śremski",
+        "lud_1_km2": 106.5,
+        "ter_woj": 30,
+        "ter_pow": 26
+    },
+    {
+        "pow_nazw": "m. Poznań",
+        "lud_1_km2": 2066.8,
+        "ter_woj": 30,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "białogardzki",
+        "lud_1_km2": 53.0,
+        "ter_woj": 32,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "kołobrzeski",
+        "lud_1_km2": 105.9,
+        "ter_woj": 32,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "koszaliński",
+        "lud_1_km2": 40.1,
+        "ter_woj": 32,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "sławieński",
+        "lud_1_km2": 51.2,
+        "ter_woj": 32,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "m. Koszalin",
+        "lud_1_km2": 1060.0,
+        "ter_woj": 32,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "choszczeński",
+        "lud_1_km2": 33.8,
+        "ter_woj": 32,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "drawski",
+        "lud_1_km2": 30.6,
+        "ter_woj": 32,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "myśliborski",
+        "lud_1_km2": 53.0,
+        "ter_woj": 32,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "pyrzycki",
+        "lud_1_km2": 50.7,
+        "ter_woj": 32,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "szczecinecki",
+        "lud_1_km2": 41.5,
+        "ter_woj": 32,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "świdwiński",
+        "lud_1_km2": 39.9,
+        "ter_woj": 32,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "wałecki",
+        "lud_1_km2": 35.6,
+        "ter_woj": 32,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "łobeski",
+        "lud_1_km2": 31.7,
+        "ter_woj": 32,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "m. Szczecin",
+        "lud_1_km2": 1302.5,
+        "ter_woj": 32,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "goleniowski",
+        "lud_1_km2": 50.4,
+        "ter_woj": 32,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "gryficki",
+        "lud_1_km2": 55.8,
+        "ter_woj": 32,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "gryfiński",
+        "lud_1_km2": 41.5,
+        "ter_woj": 32,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "kamieński",
+        "lud_1_km2": 44.1,
+        "ter_woj": 32,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "policki",
+        "lud_1_km2": 127.8,
+        "ter_woj": 32,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "stargardzki",
+        "lud_1_km2": 78.4,
+        "ter_woj": 32,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "m. Świnoujście",
+        "lud_1_km2": 194.8,
+        "ter_woj": 32,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "bolesławiecki",
+        "lud_1_km2": 67.5,
+        "ter_woj": 2,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "jaworski",
+        "lud_1_km2": 81.9,
+        "ter_woj": 2,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "karkonoski",
+        "lud_1_km2": 97.3,
+        "ter_woj": 2,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "kamiennogórski",
+        "lud_1_km2": 103.1,
+        "ter_woj": 2,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "lubański",
+        "lud_1_km2": 121.1,
+        "ter_woj": 2,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "lwówecki",
+        "lud_1_km2": 60.8,
+        "ter_woj": 2,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "zgorzelecki",
+        "lud_1_km2": 102.4,
+        "ter_woj": 2,
+        "ter_pow": 25
+    },
+    {
+        "pow_nazw": "złotoryjski",
+        "lud_1_km2": 71.1,
+        "ter_woj": 2,
+        "ter_pow": 26
+    },
+    {
+        "pow_nazw": "m. Jelenia Góra",
+        "lud_1_km2": 693.4,
+        "ter_woj": 2,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "głogowski",
+        "lud_1_km2": 193.3,
+        "ter_woj": 2,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "górowski",
+        "lud_1_km2": 44.3,
+        "ter_woj": 2,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "legnicki",
+        "lud_1_km2": 74.0,
+        "ter_woj": 2,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "lubiński",
+        "lud_1_km2": 145.3,
+        "ter_woj": 2,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "polkowicki",
+        "lud_1_km2": 78.6,
+        "ter_woj": 2,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "m. Legnica",
+        "lud_1_km2": 1652.9,
+        "ter_woj": 2,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "dzierżoniowski",
+        "lud_1_km2": 200.3,
+        "ter_woj": 2,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "kłodzki",
+        "lud_1_km2": 90.5,
+        "ter_woj": 2,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "świdnicki",
+        "lud_1_km2": 204.0,
+        "ter_woj": 2,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "wałbrzyski",
+        "lud_1_km2": 123.5,
+        "ter_woj": 2,
+        "ter_pow": 21
+    },
+    {
+        "pow_nazw": "ząbkowicki",
+        "lud_1_km2": 76.2,
+        "ter_woj": 2,
+        "ter_pow": 24
+    },
+    {
+        "pow_nazw": "milicki",
+        "lud_1_km2": 50.1,
+        "ter_woj": 2,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "oleśnicki",
+        "lud_1_km2": 101.5,
+        "ter_woj": 2,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "oławski",
+        "lud_1_km2": 147.5,
+        "ter_woj": 2,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "strzeliński",
+        "lud_1_km2": 67.5,
+        "ter_woj": 2,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "średzki",
+        "lud_1_km2": 83.1,
+        "ter_woj": 2,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "trzebnicki",
+        "lud_1_km2": 85.2,
+        "ter_woj": 2,
+        "ter_pow": 20
+    },
+    {
+        "pow_nazw": "wołowski",
+        "lud_1_km2": 67.8,
+        "ter_woj": 2,
+        "ter_pow": 22
+    },
+    {
+        "pow_nazw": "wrocławski",
+        "lud_1_km2": 163.5,
+        "ter_woj": 2,
+        "ter_pow": 23
+    },
+    {
+        "pow_nazw": "m. Wrocław",
+        "lud_1_km2": 2302.1,
+        "ter_woj": 2,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "brzeski",
+        "lud_1_km2": 99.0,
+        "ter_woj": 16,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "głubczycki",
+        "lud_1_km2": 64.0,
+        "ter_woj": 16,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "namysłowski",
+        "lud_1_km2": 56.4,
+        "ter_woj": 16,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "nyski",
+        "lud_1_km2": 105.7,
+        "ter_woj": 16,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "prudnicki",
+        "lud_1_km2": 90.9,
+        "ter_woj": 16,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "kędzierzyńsko-kozielski",
+        "lud_1_km2": 139.2,
+        "ter_woj": 16,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "kluczborski",
+        "lud_1_km2": 72.4,
+        "ter_woj": 16,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "krapkowicki",
+        "lud_1_km2": 135.7,
+        "ter_woj": 16,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "oleski",
+        "lud_1_km2": 63.3,
+        "ter_woj": 16,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "opolski",
+        "lud_1_km2": 78.7,
+        "ter_woj": 16,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "strzelecki",
+        "lud_1_km2": 96.3,
+        "ter_woj": 16,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "m. Opole",
+        "lud_1_km2": 848.5,
+        "ter_woj": 16,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "bydgoski",
+        "lud_1_km2": 90.0,
+        "ter_woj": 4,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "toruński",
+        "lud_1_km2": 92.3,
+        "ter_woj": 4,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "m. Bydgoszcz",
+        "lud_1_km2": 1875.6,
+        "ter_woj": 4,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "m. Toruń",
+        "lud_1_km2": 1691.1,
+        "ter_woj": 4,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "brodnicki",
+        "lud_1_km2": 75.1,
+        "ter_woj": 4,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "chełmiński",
+        "lud_1_km2": 94.0,
+        "ter_woj": 4,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "golubsko-dobrzyński",
+        "lud_1_km2": 71.1,
+        "ter_woj": 4,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "grudziądzki",
+        "lud_1_km2": 53.7,
+        "ter_woj": 4,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "rypiński",
+        "lud_1_km2": 70.6,
+        "ter_woj": 4,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "wąbrzeski",
+        "lud_1_km2": 65.4,
+        "ter_woj": 4,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "m. Grudziądz",
+        "lud_1_km2": 1548.6,
+        "ter_woj": 4,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "aleksandrowski",
+        "lud_1_km2": 113.2,
+        "ter_woj": 4,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "lipnowski",
+        "lud_1_km2": 62.0,
+        "ter_woj": 4,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "radziejowski",
+        "lud_1_km2": 62.9,
+        "ter_woj": 4,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "włocławski",
+        "lud_1_km2": 56.1,
+        "ter_woj": 4,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "m. Włocławek",
+        "lud_1_km2": 1199.9,
+        "ter_woj": 4,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "inowrocławski",
+        "lud_1_km2": 124.0,
+        "ter_woj": 4,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "mogileński",
+        "lud_1_km2": 65.0,
+        "ter_woj": 4,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "nakielski",
+        "lud_1_km2": 74.2,
+        "ter_woj": 4,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "żniński",
+        "lud_1_km2": 69.0,
+        "ter_woj": 4,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "sępoleński",
+        "lud_1_km2": 49.6,
+        "ter_woj": 4,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "świecki",
+        "lud_1_km2": 64.7,
+        "ter_woj": 4,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "tucholski",
+        "lud_1_km2": 43.8,
+        "ter_woj": 4,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "gdański",
+        "lud_1_km2": 163.7,
+        "ter_woj": 22,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "kartuski",
+        "lud_1_km2": 135.6,
+        "ter_woj": 22,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "nowodworski",
+        "lud_1_km2": 50.2,
+        "ter_woj": 22,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "pucki",
+        "lud_1_km2": 156.5,
+        "ter_woj": 22,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "wejherowski",
+        "lud_1_km2": 176.6,
+        "ter_woj": 22,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "bytowski",
+        "lud_1_km2": 35.0,
+        "ter_woj": 22,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "lęborski",
+        "lud_1_km2": 90.3,
+        "ter_woj": 22,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "słupski",
+        "lud_1_km2": 41.6,
+        "ter_woj": 22,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "m. Słupsk",
+        "lud_1_km2": 2001.5,
+        "ter_woj": 22,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "kwidzyński",
+        "lud_1_km2": 96.6,
+        "ter_woj": 22,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "malborski",
+        "lud_1_km2": 123.4,
+        "ter_woj": 22,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "starogardzki",
+        "lud_1_km2": 93.2,
+        "ter_woj": 22,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "tczewski",
+        "lud_1_km2": 160.3,
+        "ter_woj": 22,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "sztumski",
+        "lud_1_km2": 52.9,
+        "ter_woj": 22,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "m. Gdańsk",
+        "lud_1_km2": 1829.3,
+        "ter_woj": 22,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "m. Gdynia",
+        "lud_1_km2": 1796.4,
+        "ter_woj": 22,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "m. Sopot",
+        "lud_1_km2": 1859.2,
+        "ter_woj": 22,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "chojnicki",
+        "lud_1_km2": 70.5,
+        "ter_woj": 22,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "człuchowski",
+        "lud_1_km2": 34.0,
+        "ter_woj": 22,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "kościerski",
+        "lud_1_km2": 62.0,
+        "ter_woj": 22,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "braniewski",
+        "lud_1_km2": 31.4,
+        "ter_woj": 28,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "działdowski",
+        "lud_1_km2": 64.9,
+        "ter_woj": 28,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "elbląski",
+        "lud_1_km2": 38.7,
+        "ter_woj": 28,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "iławski",
+        "lud_1_km2": 65.1,
+        "ter_woj": 28,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "nowomiejski",
+        "lud_1_km2": 60.8,
+        "ter_woj": 28,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "ostródzki",
+        "lud_1_km2": 56.5,
+        "ter_woj": 28,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "m. Elbląg",
+        "lud_1_km2": 1422.8,
+        "ter_woj": 28,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "ełcki",
+        "lud_1_km2": 79.6,
+        "ter_woj": 28,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "giżycki",
+        "lud_1_km2": 48.2,
+        "ter_woj": 28,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "olecki",
+        "lud_1_km2": 36.9,
+        "ter_woj": 28,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "piski",
+        "lud_1_km2": 29.6,
+        "ter_woj": 28,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "gołdapski",
+        "lud_1_km2": 32.6,
+        "ter_woj": 28,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "węgorzewski",
+        "lud_1_km2": 30.4,
+        "ter_woj": 28,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "bartoszycki",
+        "lud_1_km2": 40.7,
+        "ter_woj": 28,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "kętrzyński",
+        "lud_1_km2": 47.6,
+        "ter_woj": 28,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "lidzbarski",
+        "lud_1_km2": 41.7,
+        "ter_woj": 28,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "mrągowski",
+        "lud_1_km2": 45.0,
+        "ter_woj": 28,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "nidzicki",
+        "lud_1_km2": 31.9,
+        "ter_woj": 28,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "olsztyński",
+        "lud_1_km2": 45.6,
+        "ter_woj": 28,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "szczycieński",
+        "lud_1_km2": 34.6,
+        "ter_woj": 28,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "m. Olsztyn",
+        "lud_1_km2": 1904.6,
+        "ter_woj": 28,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "łódzki wschodni",
+        "lud_1_km2": 148.8,
+        "ter_woj": 10,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "pabianicki",
+        "lud_1_km2": 242.4,
+        "ter_woj": 10,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "zgierski",
+        "lud_1_km2": 194.7,
+        "ter_woj": 10,
+        "ter_pow": 20
+    },
+    {
+        "pow_nazw": "brzeziński",
+        "lud_1_km2": 84.4,
+        "ter_woj": 10,
+        "ter_pow": 21
+    },
+    {
+        "pow_nazw": "m. Łódź",
+        "lud_1_km2": 2245.3,
+        "ter_woj": 10,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "bełchatowski",
+        "lud_1_km2": 112.7,
+        "ter_woj": 10,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "opoczyński",
+        "lud_1_km2": 69.5,
+        "ter_woj": 10,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "piotrkowski",
+        "lud_1_km2": 63.4,
+        "ter_woj": 10,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "radomszczański",
+        "lud_1_km2": 74.5,
+        "ter_woj": 10,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "tomaszowski",
+        "lud_1_km2": 108.8,
+        "ter_woj": 10,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "m. Piotrków Trybunalski",
+        "lud_1_km2": 1000.4,
+        "ter_woj": 10,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "łaski",
+        "lud_1_km2": 79.2,
+        "ter_woj": 10,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "pajęczański",
+        "lud_1_km2": 61.0,
+        "ter_woj": 10,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "poddębicki",
+        "lud_1_km2": 45.0,
+        "ter_woj": 10,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "sieradzki",
+        "lud_1_km2": 75.4,
+        "ter_woj": 10,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "wieluński",
+        "lud_1_km2": 79.0,
+        "ter_woj": 10,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "wieruszowski",
+        "lud_1_km2": 72.0,
+        "ter_woj": 10,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "zduńskowolski",
+        "lud_1_km2": 172.7,
+        "ter_woj": 10,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "kutnowski",
+        "lud_1_km2": 103.2,
+        "ter_woj": 10,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "łęczycki",
+        "lud_1_km2": 60.8,
+        "ter_woj": 10,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "łowicki",
+        "lud_1_km2": 75.5,
+        "ter_woj": 10,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "rawski",
+        "lud_1_km2": 71.8,
+        "ter_woj": 10,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "skierniewicki",
+        "lud_1_km2": 50.2,
+        "ter_woj": 10,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "m. Skierniewice",
+        "lud_1_km2": 1316.8,
+        "ter_woj": 10,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "kielecki",
+        "lud_1_km2": 94.3,
+        "ter_woj": 26,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "konecki",
+        "lud_1_km2": 65.4,
+        "ter_woj": 26,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "ostrowiecki",
+        "lud_1_km2": 164.3,
+        "ter_woj": 26,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "skarżyski",
+        "lud_1_km2": 174.7,
+        "ter_woj": 26,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "starachowicki",
+        "lud_1_km2": 161.5,
+        "ter_woj": 26,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "m. Kielce",
+        "lud_1_km2": 1677.0,
+        "ter_woj": 26,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "buski",
+        "lud_1_km2": 70.7,
+        "ter_woj": 26,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "jędrzejowski",
+        "lud_1_km2": 65.1,
+        "ter_woj": 26,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "kazimierski",
+        "lud_1_km2": 75.7,
+        "ter_woj": 26,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "opatowski",
+        "lud_1_km2": 53.7,
+        "ter_woj": 26,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "pińczowski",
+        "lud_1_km2": 60.4,
+        "ter_woj": 26,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "sandomierski",
+        "lud_1_km2": 107.4,
+        "ter_woj": 26,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "staszowski",
+        "lud_1_km2": 74.6,
+        "ter_woj": 26,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "włoszczowski",
+        "lud_1_km2": 47.8,
+        "ter_woj": 26,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "bialski",
+        "lud_1_km2": 38.3,
+        "ter_woj": 6,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "parczewski",
+        "lud_1_km2": 34.2,
+        "ter_woj": 6,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "radzyński",
+        "lud_1_km2": 57.5,
+        "ter_woj": 6,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "włodawski",
+        "lud_1_km2": 28.5,
+        "ter_woj": 6,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "m. Biała Podlaska",
+        "lud_1_km2": 1108.7,
+        "ter_woj": 6,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "biłgorajski",
+        "lud_1_km2": 57.7,
+        "ter_woj": 6,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "chełmski",
+        "lud_1_km2": 39.4,
+        "ter_woj": 6,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "hrubieszowski",
+        "lud_1_km2": 45.3,
+        "ter_woj": 6,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "krasnostawski",
+        "lud_1_km2": 57.9,
+        "ter_woj": 6,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "tomaszowski",
+        "lud_1_km2": 52.4,
+        "ter_woj": 6,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "zamojski",
+        "lud_1_km2": 54.2,
+        "ter_woj": 6,
+        "ter_pow": 20
+    },
+    {
+        "pow_nazw": "m. Chełm",
+        "lud_1_km2": 1642.1,
+        "ter_woj": 6,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "m. Zamość",
+        "lud_1_km2": 1943.4,
+        "ter_woj": 6,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "lubartowski",
+        "lud_1_km2": 65.6,
+        "ter_woj": 6,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "lubelski",
+        "lud_1_km2": 97.2,
+        "ter_woj": 6,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "łęczyński",
+        "lud_1_km2": 87.8,
+        "ter_woj": 6,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "świdnicki",
+        "lud_1_km2": 148.6,
+        "ter_woj": 6,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "m. Lublin",
+        "lud_1_km2": 2246.5,
+        "ter_woj": 6,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "janowski",
+        "lud_1_km2": 49.3,
+        "ter_woj": 6,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "kraśnicki",
+        "lud_1_km2": 89.6,
+        "ter_woj": 6,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "łukowski",
+        "lud_1_km2": 72.8,
+        "ter_woj": 6,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "opolski",
+        "lud_1_km2": 69.3,
+        "ter_woj": 6,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "puławski",
+        "lud_1_km2": 115.6,
+        "ter_woj": 6,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "rycki",
+        "lud_1_km2": 84.7,
+        "ter_woj": 6,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "bieszczadzki",
+        "lud_1_km2": 18.2,
+        "ter_woj": 18,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "brzozowski",
+        "lud_1_km2": 117.9,
+        "ter_woj": 18,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "jasielski",
+        "lud_1_km2": 131.9,
+        "ter_woj": 18,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "krośnieński",
+        "lud_1_km2": 110.0,
+        "ter_woj": 18,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "sanocki",
+        "lud_1_km2": 78.1,
+        "ter_woj": 18,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "leski",
+        "lud_1_km2": 30.6,
+        "ter_woj": 18,
+        "ter_pow": 21
+    },
+    {
+        "pow_nazw": "m. Krosno",
+        "lud_1_km2": 991.3,
+        "ter_woj": 18,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "jarosławski",
+        "lud_1_km2": 113.2,
+        "ter_woj": 18,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "lubaczowski",
+        "lud_1_km2": 40.5,
+        "ter_woj": 18,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "przemyski",
+        "lud_1_km2": 58.9,
+        "ter_woj": 18,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "przeworski",
+        "lud_1_km2": 109.0,
+        "ter_woj": 18,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "m. Przemyśl",
+        "lud_1_km2": 1230.3,
+        "ter_woj": 18,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "kolbuszowski",
+        "lud_1_km2": 79.4,
+        "ter_woj": 18,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "łańcucki",
+        "lud_1_km2": 178.8,
+        "ter_woj": 18,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "ropczycko-sędziszowski",
+        "lud_1_km2": 135.1,
+        "ter_woj": 18,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "rzeszowski",
+        "lud_1_km2": 152.7,
+        "ter_woj": 18,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "strzyżowski",
+        "lud_1_km2": 118.2,
+        "ter_woj": 18,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "m. Rzeszów",
+        "lud_1_km2": 1528.4,
+        "ter_woj": 18,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "dębicki",
+        "lud_1_km2": 171.0,
+        "ter_woj": 18,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "leżajski",
+        "lud_1_km2": 114.8,
+        "ter_woj": 18,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "mielecki",
+        "lud_1_km2": 151.4,
+        "ter_woj": 18,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "niżański",
+        "lud_1_km2": 81.5,
+        "ter_woj": 18,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "stalowowolski",
+        "lud_1_km2": 122.2,
+        "ter_woj": 18,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "tarnobrzeski",
+        "lud_1_km2": 98.5,
+        "ter_woj": 18,
+        "ter_pow": 20
+    },
+    {
+        "pow_nazw": "m. Tarnobrzeg",
+        "lud_1_km2": 517.0,
+        "ter_woj": 18,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "białostocki",
+        "lud_1_km2": 52.5,
+        "ter_woj": 20,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "sokólski",
+        "lud_1_km2": 30.2,
+        "ter_woj": 20,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "m. Białystok",
+        "lud_1_km2": 2865.0,
+        "ter_woj": 20,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "bielski",
+        "lud_1_km2": 36.9,
+        "ter_woj": 20,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "hajnowski",
+        "lud_1_km2": 24.3,
+        "ter_woj": 20,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "kolneński",
+        "lud_1_km2": 38.2,
+        "ter_woj": 20,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "łomżyński",
+        "lud_1_km2": 36.7,
+        "ter_woj": 20,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "siemiatycki",
+        "lud_1_km2": 28.2,
+        "ter_woj": 20,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "wysokomazowiecki",
+        "lud_1_km2": 41.8,
+        "ter_woj": 20,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "zambrowski",
+        "lud_1_km2": 56.7,
+        "ter_woj": 20,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "m. Łomża",
+        "lud_1_km2": 1840.5,
+        "ter_woj": 20,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "augustowski",
+        "lud_1_km2": 33.1,
+        "ter_woj": 20,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "grajewski",
+        "lud_1_km2": 46.2,
+        "ter_woj": 20,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "moniecki",
+        "lud_1_km2": 27.3,
+        "ter_woj": 20,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "sejneński",
+        "lud_1_km2": 22.0,
+        "ter_woj": 20,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "suwalski",
+        "lud_1_km2": 26.6,
+        "ter_woj": 20,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "m. Suwałki",
+        "lud_1_km2": 1046.0,
+        "ter_woj": 20,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "m. st. Warszawa",
+        "lud_1_km2": 3600.1,
+        "ter_woj": 14,
+        "ter_pow": 65
+    },
+    {
+        "pow_nazw": "legionowski",
+        "lud_1_km2": 333.4,
+        "ter_woj": 14,
+        "ter_pow": 8
+    },
+    {
+        "pow_nazw": "miński",
+        "lud_1_km2": 136.7,
+        "ter_woj": 14,
+        "ter_pow": 12
+    },
+    {
+        "pow_nazw": "otwocki",
+        "lud_1_km2": 205.6,
+        "ter_woj": 14,
+        "ter_pow": 17
+    },
+    {
+        "pow_nazw": "wołomiński",
+        "lud_1_km2": 286.7,
+        "ter_woj": 14,
+        "ter_pow": 34
+    },
+    {
+        "pow_nazw": "grodziski",
+        "lud_1_km2": 284.6,
+        "ter_woj": 14,
+        "ter_pow": 5
+    },
+    {
+        "pow_nazw": "nowodworski",
+        "lud_1_km2": 114.7,
+        "ter_woj": 14,
+        "ter_pow": 14
+    },
+    {
+        "pow_nazw": "piaseczyński",
+        "lud_1_km2": 341.6,
+        "ter_woj": 14,
+        "ter_pow": 18
+    },
+    {
+        "pow_nazw": "pruszkowski",
+        "lud_1_km2": 722.6,
+        "ter_woj": 14,
+        "ter_pow": 21
+    },
+    {
+        "pow_nazw": "warszawski zachodni",
+        "lud_1_km2": 249.6,
+        "ter_woj": 14,
+        "ter_pow": 32
+    },
+    {
+        "pow_nazw": "ciechanowski",
+        "lud_1_km2": 80.8,
+        "ter_woj": 14,
+        "ter_pow": 2
+    },
+    {
+        "pow_nazw": "mławski",
+        "lud_1_km2": 58.8,
+        "ter_woj": 14,
+        "ter_pow": 13
+    },
+    {
+        "pow_nazw": "płoński",
+        "lud_1_km2": 61.2,
+        "ter_woj": 14,
+        "ter_pow": 20
+    },
+    {
+        "pow_nazw": "pułtuski",
+        "lud_1_km2": 61.1,
+        "ter_woj": 14,
+        "ter_pow": 24
+    },
+    {
+        "pow_nazw": "żuromiński",
+        "lud_1_km2": 44.5,
+        "ter_woj": 14,
+        "ter_pow": 37
+    },
+    {
+        "pow_nazw": "makowski",
+        "lud_1_km2": 39.6,
+        "ter_woj": 14,
+        "ter_pow": 11
+    },
+    {
+        "pow_nazw": "ostrołęcki",
+        "lud_1_km2": 41.8,
+        "ter_woj": 14,
+        "ter_pow": 15
+    },
+    {
+        "pow_nazw": "ostrowski",
+        "lud_1_km2": 56.6,
+        "ter_woj": 14,
+        "ter_pow": 16
+    },
+    {
+        "pow_nazw": "przasnyski",
+        "lud_1_km2": 40.5,
+        "ter_woj": 14,
+        "ter_pow": 22
+    },
+    {
+        "pow_nazw": "wyszkowski",
+        "lud_1_km2": 83.8,
+        "ter_woj": 14,
+        "ter_pow": 35
+    },
+    {
+        "pow_nazw": "m. Ostrołęka",
+        "lud_1_km2": 1455.8,
+        "ter_woj": 14,
+        "ter_pow": 61
+    },
+    {
+        "pow_nazw": "białobrzeski",
+        "lud_1_km2": 51.0,
+        "ter_woj": 14,
+        "ter_pow": 1
+    },
+    {
+        "pow_nazw": "kozienicki",
+        "lud_1_km2": 62.8,
+        "ter_woj": 14,
+        "ter_pow": 7
+    },
+    {
+        "pow_nazw": "lipski",
+        "lud_1_km2": 43.0,
+        "ter_woj": 14,
+        "ter_pow": 9
+    },
+    {
+        "pow_nazw": "przysuski",
+        "lud_1_km2": 48.7,
+        "ter_woj": 14,
+        "ter_pow": 23
+    },
+    {
+        "pow_nazw": "radomski",
+        "lud_1_km2": 98.8,
+        "ter_woj": 14,
+        "ter_pow": 25
+    },
+    {
+        "pow_nazw": "szydłowiecki",
+        "lud_1_km2": 83.7,
+        "ter_woj": 14,
+        "ter_pow": 30
+    },
+    {
+        "pow_nazw": "zwoleński",
+        "lud_1_km2": 60.3,
+        "ter_woj": 14,
+        "ter_pow": 36
+    },
+    {
+        "pow_nazw": "m. Radom",
+        "lud_1_km2": 1769.7,
+        "ter_woj": 14,
+        "ter_pow": 63
+    },
+    {
+        "pow_nazw": "gostyniński",
+        "lud_1_km2": 69.3,
+        "ter_woj": 14,
+        "ter_pow": 4
+    },
+    {
+        "pow_nazw": "płocki",
+        "lud_1_km2": 61.1,
+        "ter_woj": 14,
+        "ter_pow": 19
+    },
+    {
+        "pow_nazw": "sierpecki",
+        "lud_1_km2": 57.1,
+        "ter_woj": 14,
+        "ter_pow": 27
+    },
+    {
+        "pow_nazw": "m. Płock",
+        "lud_1_km2": 1277.6,
+        "ter_woj": 14,
+        "ter_pow": 62
+    },
+    {
+        "pow_nazw": "garwoliński",
+        "lud_1_km2": 82.2,
+        "ter_woj": 14,
+        "ter_pow": 3
+    },
+    {
+        "pow_nazw": "łosicki",
+        "lud_1_km2": 37.5,
+        "ter_woj": 14,
+        "ter_pow": 10
+    },
+    {
+        "pow_nazw": "siedlecki",
+        "lud_1_km2": 50.2,
+        "ter_woj": 14,
+        "ter_pow": 26
+    },
+    {
+        "pow_nazw": "sokołowski",
+        "lud_1_km2": 44.7,
+        "ter_woj": 14,
+        "ter_pow": 29
+    },
+    {
+        "pow_nazw": "węgrowski",
+        "lud_1_km2": 51.0,
+        "ter_woj": 14,
+        "ter_pow": 33
+    },
+    {
+        "pow_nazw": "m. Siedlce",
+        "lud_1_km2": 2373.6,
+        "ter_woj": 14,
+        "ter_pow": 64
+    },
+    {
+        "pow_nazw": "grójecki",
+        "lud_1_km2": 76.8,
+        "ter_woj": 14,
+        "ter_pow": 6
+    },
+    {
+        "pow_nazw": "sochaczewski",
+        "lud_1_km2": 113.4,
+        "ter_woj": 14,
+        "ter_pow": 28
+    },
+    {
+        "pow_nazw": "żyrardowski",
+        "lud_1_km2": 141.6,
+        "ter_woj": 14,
+        "ter_pow": 38
+    }
+]
